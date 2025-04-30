@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "ciq-firebase",
+    "production": "ciq-firebase"
+  },
+  "targets": {},
+  "etags": {}
+}
